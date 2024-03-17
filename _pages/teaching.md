@@ -22,5 +22,5 @@ nav_order: 2
 
 #### **Teaching Assistant: IF100 Computational Approaches to Problem Solving**  
 *for 2 semesters at Sabanci University*
-- Held weekly recitations and office hours, graded exams.
+- Held weekly recitations and office hours, and graded exams.
 
