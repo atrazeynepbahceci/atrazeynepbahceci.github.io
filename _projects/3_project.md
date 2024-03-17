@@ -3,7 +3,7 @@ layout: page
 title: Real-Time Semantic Segmentation of UAV-Captured Off-road Environments
 description: 
 img: 
-importance: 3
+importance: 2
 category: work
 ---
 Deep Learning course project at Sabanci University
