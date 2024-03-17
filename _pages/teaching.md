@@ -3,6 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: 
+nav: true
 nav_order: 2
 ---
 **Computer Vision Teaching Assistant: Advanced Data Analytics Program**  
