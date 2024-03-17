@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Notable Projects completed at Istanbul Technical University & Sabanci University.
+description: Notable projects completed at Istanbul Technical University & Sabanci University.
 nav: true
 nav_order: 1
 horizontal: ture
