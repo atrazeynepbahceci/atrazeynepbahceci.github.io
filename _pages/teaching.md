@@ -9,7 +9,7 @@ nav_order: 2
 
 
 ### **Computer Vision Teaching Assistant: Advanced Data Analytics Program**  
-*for 1 program at Sabanci University Executive Development Unit*
+for 1 program at Sabanci University Executive Development Unit
 - Created recitation materials and held recitations.
 
 **Teaching Assistant: CS412 Machine Learning**  
