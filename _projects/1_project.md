@@ -3,7 +3,7 @@ layout: page
 title: Algorithmic Trading with Q-learning
 description: Deep Q-Network (DQN) Based Model for Stock Market Trading
 img: assets/img/12.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---
