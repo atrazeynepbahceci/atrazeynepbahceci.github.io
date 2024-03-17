@@ -2,7 +2,7 @@
 layout: page
 title: Real-Time Semantic Segmentation of UAV-Captured Off-road Environments
 description: 
-img: /assets/processed_data_gif.gif
+img: 
 importance: 3
 category: work
 ---
