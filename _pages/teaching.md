@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: true
+description: 
 nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**Computer Vision Teaching Assistant: Advanced Data Analytics Program**
+for 1 program at Sabanci University Executive Development Unit
+- Created recitation materials and held recitations.
 
-Organize your courses by years, topics, or universities, however you like!
+**Teaching Assistant: CS412 Machine Learning**
+for 3 semesters at Sabanci University
+- Created recitation materials and homework.
+- Held weekly recitations and office hours; graded exams, homework and projects.
+
+**Teaching Assistant: IF100 Computational Approaches to Problem Solving**
+for 2 semesters at Sabanci University
+- Held weekly recitations and office hours, graded exams.
