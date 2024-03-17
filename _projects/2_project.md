@@ -2,7 +2,7 @@
 layout: page
 title: Business POI Recommendation with Reinforcement Learning
 description: Optimizing Business Locations with Deep Q-learning
-img: assets/img/3.jpg
+img: 
 importance: 1
 category: work
 ---
