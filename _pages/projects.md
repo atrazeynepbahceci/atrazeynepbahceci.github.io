@@ -7,7 +7,6 @@ nav: true
 nav_order: 1
 horizontal: ture
 ---
-
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
@@ -21,7 +20,7 @@ horizontal: ture
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
@@ -47,7 +46,7 @@ horizontal: ture
 {% if page.horizontal %}
 
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
@@ -61,4 +60,6 @@ horizontal: ture
   </div>
   {% endif %}
 {% endif %}
+</div>
+
 </div>
