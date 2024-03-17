@@ -6,7 +6,9 @@ description:
 nav: true
 nav_order: 2
 ---
-**Computer Vision Teaching Assistant: Advanced Data Analytics Program**  
+
+
+### **Computer Vision Teaching Assistant: Advanced Data Analytics Program**  
 *for 1 program at Sabanci University Executive Development Unit*
 - Created recitation materials and held recitations.
 
