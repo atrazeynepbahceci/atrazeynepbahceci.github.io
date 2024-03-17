@@ -4,9 +4,8 @@ title: projects
 permalink: /projects/
 description: Notable Projects completed at Istanbul Technical University & Sabanci University.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+nav_order: 1
+horizontal: ture
 ---
 
 <!-- pages/projects.md -->
