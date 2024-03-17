@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Stock Market Trading Strategies with RL
-description: Reinforcement Learning (RL) based Trade Bot for the Turkish Stock Market
+title: Algorithmic Trading with Q-learning
+description: Deep Q-Network (DQN) Based Model for Stock Market Trading
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
