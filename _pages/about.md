@@ -6,7 +6,7 @@ subtitle: Data Science MSc Candidate
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profilepicture.jpeg
   image_circular: false # crops the image to make it circular
   more_info: 
 
