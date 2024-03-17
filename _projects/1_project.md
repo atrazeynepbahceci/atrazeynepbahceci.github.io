@@ -3,7 +3,7 @@ layout: page
 title: Algorithmic Trading with Q-learning
 description:
 img: 
-importance: 2
+importance: 3
 category: work
 related_publications: false
 ---
