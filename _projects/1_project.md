@@ -4,78 +4,14 @@ title: Algorithmic Trading with Q-learning
 description: Deep Q-Network (DQN) Based Model for Stock Market Trading
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: 
 related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Bachelor's graduation project at Istanbul Technical University, supervised by <a href="https://avesis.itu.edu.tr/tinc">Dr. Kutay Tinc</a>.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Full project at my <a href="https://github.com/atrazeynepbahceci/dqn-for-trading">GitHub</a>.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**Summary:** In this study, we leveraged a sophisticated Deep Q-Network (DQN) model to forge ahead in the realm of stock market trading strategies, focusing on the volatile yet opportunistic landscape of the Istanbul Stock Exchange. By engineering a model capable of executing decisions across a spectrum from 'Hold' to 'Strong Buy' and 'Strong Sell', we challenged the conventional wisdom of financial trading. The model's prowess was put to the test with a diverse portfolio comprising stocks with varying volatility and growth patterns, including MAVI.IS, MGROS.IS, NUHCM.IS, PETKM.IS, and QNBFB.IS. Starting with an initial capital of 20,000 TRY, our DQN model demonstrated exceptional financial acumen, navigating through the complexities of the market to amplify its assets, surpassing traditional return ratios. This study not only underscores the potential of reinforcement learning in financial decision-making but also marks a step forward in the application of artificial intelligence for enhancing stock market trading strategies.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+   
