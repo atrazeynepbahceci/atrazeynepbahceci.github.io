@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Stock Market Trading Strategies with RL
+description: Reinforcement Learning (RL) based Trade Bot for the Turkish Stock Market
 img: assets/img/12.jpg
 importance: 1
 category: work
