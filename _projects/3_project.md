@@ -2,7 +2,7 @@
 layout: page
 title: Real-Time Semantic Segmentation of UAV-Captured Off-road
 Environments
-description: 
+description: Semantic Segmentation with YOLO
 img: assets/img/7.jpg
 importance: 3
 category: work
