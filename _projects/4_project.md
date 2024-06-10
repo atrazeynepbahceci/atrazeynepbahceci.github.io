@@ -11,7 +11,7 @@ Machine Learning course project at Sabanci University.
 
 Full project at my <a href="https://github.com/atrazeynepbahceci/Human-Activity-Recognition">GitHub</a>.
 
-**Summary:** Harnessing the power of k-Nearest Neighbors (kNN), Support Vector Machines (SVM), Gaussian Naive Bayes (GNB), and XGBoost models, our project excels in recognizing human activities—Walking, Walking Upstairs, Downstairs, Sitting, Standing, Laying—using the <a href="https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones">Smartphones Dataset</a> with over 96% test accuracy. This comparative study not only illuminates the precision of these algorithms in interpreting complex sensor data but also underscores the potential of machine learning in health monitoring, fitness tracking, and smart device integration for improved daily life interactions.
+**Summary:** In this project, we developed k-Nearest Neighbors (kNN), Support Vector Machines (SVM), Gaussian Naive Bayes (GNB), and XGBoost models to recognize human activities—Walking, Walking Upstairs, Downstairs, Sitting, Standing, Laying—using the <a href="https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones">Smartphones Dataset</a> with over 96% test accuracy. This comparative study examines the precision of these algorithms in interpreting complex sensor data, and delves into the world of machine learning in health monitoring, fitness tracking, and smart device integration for improved daily life interactions.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
