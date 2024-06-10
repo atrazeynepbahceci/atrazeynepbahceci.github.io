@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-Bachelor's graduation project at Istanbul Technical University, supervised by <a href="https://avesis.itu.edu.tr/tinc">Dr. Kutay Tinc</a>.
+Bachelor's graduation project at Istanbul Technical University, supervised by <a href="https://www.linkedin.com/in/kutay-hoca/">Dr. Kutay Tinc</a>.
 
 Full project at my <a href="https://github.com/atrazeynepbahceci/dqn-for-trading">GitHub</a>.
 
